@@ -15,3 +15,6 @@ CMakeUserPresets.json
 
 # Runtime data from local brokers
 data/
+
+# Personal notes (not tracked)
+TODO.md

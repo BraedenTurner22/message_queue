@@ -4,5 +4,6 @@
   "description": "A Kafka-style distributed message queue in C++20",
   "dependencies": [
     "gtest"
-  ]
+  ],
+  "builtin-baseline": "7ea8b7ed582b7c4b75d1586d74759b5687576dc1"
 }

@@ -1,0 +1,17 @@
+# Build output
+build/
+out/
+vcpkg_installed/
+
+# Tooling
+.cache/
+compile_commands.json
+CMakeUserPresets.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Runtime data from local brokers
+data/

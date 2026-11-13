@@ -1,0 +1,8 @@
+{
+  "name": "mq",
+  "version-string": "0.1.0",
+  "description": "A Kafka-style distributed message queue in C++20",
+  "dependencies": [
+    "gtest"
+  ]
+}

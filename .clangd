@@ -1,0 +1,4 @@
+# Point clangd at the debug build's compile_commands.json
+# (run `cmake --preset debug` once to generate it).
+CompileFlags:
+  CompilationDatabase: build/debug
